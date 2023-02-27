@@ -5,7 +5,6 @@ description = ""
 authors = ["satoooh <bighope.lumiere0916@gmail.com>"]
 license = ""
 readme = "README.md"
-packages = [{include = "arxiv_discord"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
