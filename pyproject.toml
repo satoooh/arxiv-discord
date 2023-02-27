@@ -11,10 +11,10 @@ packages = [{include = "arxiv_discord"}]
 python = "^3.10"
 arxiv = "^1.4.3"
 requests = "^2.28.2"
+python-dotenv = "^1.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
-python-dotenv = "^1.0.0"
 autopep8 = "^2.0.1"
 
 [build-system]

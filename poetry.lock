@@ -184,7 +184,7 @@ files = [
 name = "python-dotenv"
 version = "1.0.0"
 description = "Read key-value pairs from a .env file and set them as environment variables"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.8"
 files = [
@@ -260,4 +260,4 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "a4896e1598480545b463f0add918a90dc273cc90ccc674b145110df2447d7008"
+content-hash = "4c32b77fc2879bea2228700006f39f0972a421204918e5e5fa3ccf968a583279"
